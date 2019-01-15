@@ -3,7 +3,6 @@ import {Grid, Segment, Search,Header, Icon } from 'semantic-ui-react';
 
 const SearchArtist=(props)=>{
     const {search, searchArtist,onEnterKey} = props;
-    // console.log('Artist ', search)
   return(
      <div>
         <Segment placeholder>

@@ -7,7 +7,7 @@ import Nav from '../components/nav';
 
 import SearchArtistForm from '../components/artistSearchForm';
 import Profile from '../components/profile';
-import Gallery from '../components/gallery';
+import Gallery from '../components/galleries/Gallery';
 
 // console.log(AccessToken)
 
